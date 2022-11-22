@@ -50,7 +50,6 @@ Data augmentation in data analysis are techniques used to increase the amount of
  
  ### the results of face mask detector model using OpenCV.
 
-![image](https://user-images.githubusercontent.com/94167271/189524475-d5b8dacf-a282-4529-a972-6ed03d4b1702.png)
 
  
  
